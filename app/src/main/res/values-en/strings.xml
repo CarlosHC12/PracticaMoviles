@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APPTEST</string>
+    <string name="btGuardar">Save</string>
+    <string name="btCancelar">Cancel</string>
+    <string name="edModelo">Model</string>
+    <string name="ftEscala">Scale</string>
+    <string name="tvGrado">Degree</string>
+    <string name="edBorrar">Delete</string>
+</resources>

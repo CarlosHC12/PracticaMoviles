@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">APPTEST</string>
+    <string name="btGuardar">Guardar</string>
+    <string name="btCancelar">Cancelar</string>
+    <string name="edModelo">Modelo</string>
+    <string name="ftEscala">Escala</string>
+    <string name="tvGrado">Grado</string>
+    <string name="edBorrar">Borrar</string>
 
 </resources>
