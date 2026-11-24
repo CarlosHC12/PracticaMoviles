@@ -7,4 +7,7 @@
     <string name="ftEscala">Scale</string>
     <string name="tvGrado">Degree</string>
     <string name="edBorrar">Delete</string>
+    <string name="btn_Borrar_Todos">Delete all</string>
+    <string name="btn_Acerca_de">About</string>
+    <string name="añadir_gunpla">Add gunpla</string>
 </resources>
