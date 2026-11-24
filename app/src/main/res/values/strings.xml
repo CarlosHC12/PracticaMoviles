@@ -6,5 +6,8 @@
     <string name="ftEscala">Escala</string>
     <string name="tvGrado">Grado</string>
     <string name="edBorrar">Borrar</string>
+    <string name="btn_Borrar_Todos">Borrar todos</string>
+    <string name="btn_Acerca_de">Acerca de</string>
+    <string name="añadir_gunpla">añadir</string>
 
 </resources>

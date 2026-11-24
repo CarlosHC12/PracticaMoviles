@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/opcion_borrar_todos"
+        android:title="@string/btn_Borrar_Todos"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opcion_acerca_de"
+        android:title="@string/btn_Acerca_de"
+        app:showAsAction="never" />
+</menu>
